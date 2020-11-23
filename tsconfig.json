@@ -8,6 +8,7 @@
     "sourceMap": true,
     "allowJs": false,
     "declaration": true,
+    "declarationDir": "build",
     "moduleResolution": "node",
     "forceConsistentCasingInFileNames": true,
     "noImplicitReturns": true,
