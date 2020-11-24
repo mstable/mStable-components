@@ -1,5 +1,5 @@
 {
-  "name": "mStable-components",
+  "name": "@mstable/components",
   "version": "1.0.0",
   "description": "Shared component library for mStable apps",
   "main": "build/index.js",
@@ -15,8 +15,8 @@
     "build"
   ],
   "peerDependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
     "styled-components": "^5.1.0"
   },
   "devDependencies": {
